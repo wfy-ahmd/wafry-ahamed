@@ -8,7 +8,7 @@ export const env = createEnv({
 
     EXA_API_KEY: z.string().min(1).optional(),
     OPENROUTER_API_KEY: z.string().min(1).optional(),
-    OPENROUTER_MODEL: z.string().default("tngtech/deepseek-r1t2-chimera:free"), // ⭐ Added safely
+    OPENROUTER_MODEL: z.string().default("openai/gpt-oss-120b:free"), // ⭐ Added safely
 
     // Resend API for contact form
     RESEND_API_KEY: z.string().min(1).optional(),

@@ -79,7 +79,7 @@ export async function POST(request: NextRequest) {
       );
     }
 
-    const model = process.env.OPENROUTER_MODEL || 'deepseek/deepseek-r1:free';
+    const model = process.env.OPENROUTER_MODEL || 'openai/gpt-oss-120b:free';
     const siteUrl = process.env.SITE_URL || `https://${process.env.VERCEL_URL || 'localhost:3000'}`;
 
     const response = await fetch('https://openrouter.ai/api/v1/chat/completions', {

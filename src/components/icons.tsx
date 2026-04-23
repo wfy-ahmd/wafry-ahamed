@@ -82,7 +82,6 @@ export const Icons = {
   Dev: Dev,
   dev: Dev,
   Medium: Medium,
-  medium: Medium,
   arrowRight: ArrowRight,
   download: Download,
   preview: ExternalLink,
@@ -347,7 +346,6 @@ export const Icons = {
   tensorflow: SiTensorflow,
   pytorch: SiPytorch,
   scikitlearn: SiScikitlearn,
-  medium: SiMedium,
 
   // New Skills Icons
   go: SiGo,

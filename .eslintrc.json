@@ -1,0 +1,13 @@
+{
+  "extends": ["next/core-web-vitals"],
+  "plugins": ["tailwindcss", "prettier"],
+  "rules": {
+    "tailwindcss/no-custom-classname": "off",
+    "tailwindcss/enforces-negative-arbitrary-values": "warn"
+  },
+  "settings": {
+    "tailwindcss": {
+      "classRegex": "^(class|className)$"
+    }
+  }
+}
