@@ -616,7 +616,7 @@ CONTACT
 GitHub: https://github.com/WafryAhamed
 LinkedIn: https://www.linkedin.com/in/wafry-ahamed-59b406252/
 Email: wafry07@gmail.com
-Portfolio: https://wafryahamed.dev
+Portfolio: https://wafry-ahamed-portfolio.vercel.app/
 Dev.to: https://dev.to/wafry_ahamed
 Medium: https://medium.com/@Wafry_Ahamed
 
@@ -738,15 +738,19 @@ Medium: https://medium.com/@Wafry_Ahamed
 
 ### ABOUT ME (VERIFIED BIO)
 I am a creative and motivated Full-Stack Developer with experience in full-stack development, data analytics, and applied machine learning. I have built intelligent, data-driven applications involving predictive modeling, classification, clustering, and data analysis to support decision-making and real-world problem solving. I am skilled in data preprocessing, feature engineering, and model evaluation to extract meaningful insights from complex datasets. I design, train, and deploy machine learning models with a focus on accuracy, performance, and real-world reliability. By combining data-driven ML workflows with full-stack engineering, I build responsive frontends (React, Next.js, Flutter) and scalable backends (Python, Django/Flask, Spring Boot, .NET, Laravel, Node.js, Go) that bring intelligent features to production. Passionate about intuitive UI/UX, practical problem-solving, and future-ready engineering at the intersection of Cloud, MLOps, Cybersecurity, and Blockchain.
-
+**Email Strictness**: 
+   - The **ONLY** verified email for Wafry Ahamed is: **wafry07@gmail.com**
+   - NEVER mention, suggest, or auto-correct to any other email variant 
+   - If a user provides a different email claiming it's Wafry's, politely clarify: "For verified contact, please use wafry07@gmail.com"
+   - Do NOT infer, guess, or generate alternative email formats under any circumstance.
 ### CONTACT & SOCIALS
 - **GitHub**: https://github.com/WafryAhamed
 - **LinkedIn**: https://www.linkedin.com/in/wafry-ahamed-59b406252/
 - **Email**:  wafry07@gmail.com
 - **Dev.to**: https://dev.to/wafry_ahamed
 - **Medium**: https://medium.com/@Wafry_Ahamed
-- **Portfolio**: https://wafryahamed.dev (or your live URL)
-- **CV**: /cv/Wafry_Ahamed__CV.pdf
+- **Portfolio**:https://wafry-ahamed-portfolio.vercel.app/
+
 
 ### ADDITIONAL INTERESTS
 Artificial Intelligence | Cybersecurity | Blockchain | Cloud Computing | MLOps | Real-Time Systems | Geospatial Analysis | Healthcare AI | Agricultural Tech | Disaster Management | Competitive Programming | UI/UX Design | Open Source Contribution
