@@ -827,7 +827,9 @@ export function Chatbot() {
         const errorData = await response
           .json()
           .catch(() => ({ error: 'Unknown error' }));
-        console.error('API Error details:', errorData);
+        if (process.env.NODE_ENV === 'development') {
+          console.warn('API Error details:', errorData);
+        }
         throw new Error(
           errorData.error || `Failed to get response: ${response.status}`
         );
@@ -843,7 +845,9 @@ export function Chatbot() {
 
       setMessages((prev) => [...prev, assistantMessage]);
     } catch (error) {
-      console.error('Error sending message:', error);
+      if (process.env.NODE_ENV === 'development') {
+        console.warn('Error sending message:', error);
+      }
       const errorMessage: Message = {
         id: (Date.now() + 1).toString(),
         role: 'assistant',
@@ -901,7 +905,9 @@ export function Chatbot() {
         const errorData = await response
           .json()
           .catch(() => ({ error: 'Unknown error' }));
-        console.error('API Error details:', errorData);
+        if (process.env.NODE_ENV === 'development') {
+          console.warn('API Error details:', errorData);
+        }
         throw new Error(
           errorData.error || `Failed to get response: ${response.status}`
         );
@@ -917,7 +923,9 @@ export function Chatbot() {
 
       setMessages((prev) => [...prev, assistantMessage]);
     } catch (error) {
-      console.error('Error sending message:', error);
+      if (process.env.NODE_ENV === 'development') {
+        console.warn('Error sending message:', error);
+      }
       const errorMessage: Message = {
         id: (Date.now() + 1).toString(),
         role: 'assistant',

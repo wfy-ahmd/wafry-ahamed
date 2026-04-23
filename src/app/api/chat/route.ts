@@ -100,7 +100,9 @@ export async function POST(request: NextRequest) {
 
     if (!response.ok) {
       const errorData = await response.json().catch(() => ({}));
-      console.error('OpenRouter API Error:', errorData);
+      if (process.env.NODE_ENV === 'development') {
+        console.warn('OpenRouter API Error:', errorData);
+      }
       return NextResponse.json(
         { error: errorData.error?.message || 'Failed to get response from AI' },
         { status: response.status === 401 ? 502 : response.status }
@@ -116,7 +118,9 @@ export async function POST(request: NextRequest) {
 
     return NextResponse.json({ message: aiMessage });
   } catch (error) {
-    console.error('Chat API Error:', error);
+    if (process.env.NODE_ENV === 'development') {
+      console.warn('Chat API Error:', error);
+    }
     return NextResponse.json(
       { error: error instanceof Error ? error.message : 'Internal server error' },
       { status: 500 }
