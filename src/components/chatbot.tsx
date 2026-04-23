@@ -129,7 +129,23 @@ function JobMatchAnalysis({ content }: { content: string }) {
   if (allSkills.length === 0) {
     // Look for common skill mentions in the content
     const skillKeywords = [
+      'AI',
+      'Machine Learning',
+      'data analysis',
+      'data-driven',
+      'data preprocessing',
+      'decision-making',
+      'devops',
+      'cybersecurity',
+      'cloud',
+      'MLOps',
+      'Real-Time Systems',
+      'Geospatial Analysis',
       'React.js',
+      'Go',
+      '.NET',
+      'spring boot',
+      'postgresql',
       'React',
       'Next.js',
       'Next',
@@ -1130,7 +1146,7 @@ export function Chatbot() {
                     )}
                   >
                     <motion.div
-                      whileHover={{ scale: 1.02 }}
+                      whileHover={message.role === 'user' ? undefined : { scale: 1.02 }}
                       className={cn(
                         'max-w-[85%] rounded-2xl px-3 py-2 text-sm sm:max-w-[80%] sm:px-4',
                         message.role === 'user'
