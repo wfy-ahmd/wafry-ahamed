@@ -615,11 +615,143 @@ CONTACT
 ----------------------------------------
 GitHub: https://github.com/WafryAhamed
 LinkedIn: https://www.linkedin.com/in/wafry-ahamed-59b406252/
-Email: wafryahamed06@gmail.com | wafry07@gmail.com
+Email: wafry07@gmail.com
 Portfolio: https://wafryahamed.dev
 Dev.to: https://dev.to/wafry_ahamed
 Medium: https://medium.com/@Wafry_Ahamed
+
+### TECHNICAL SKILLS
+- **Frontend**: [SKILLS: React.js, Next.js, JavaScript, TypeScript, Tailwind CSS, Framer Motion, Flutter, Angular, Bootstrap, SCSS, Redux, Vite, React Router, Figma, HTML, CSS, SASS, Lucide React, React Icons, React Scroll, Day.js, Manrope Font]
+- **Backend**: [SKILLS: Node.js, Express.js, Python, Django, Flask, FastAPI, PHP, Java, ASP.NET Core, Spring Boot, Laravel, Go (Golang), GraphQL, Uvicorn, SQLAlchemy, Pydantic, Gin Framework, GORM]
+- **Database**: [SKILLS: MongoDB, MySQL, PostgreSQL, SQLite, PostGIS, pgvector, Room DB, Firebase, SQL]
+- **AI/ML Engineering**: [SKILLS: TensorFlow, Keras, PyTorch, scikit-learn, OpenCV, Computer Vision, NLP, RAG, LLMs, Hugging Face Transformers, K-Means Clustering, Random Forest, XGBoost, LightGBM, Bayesian Optimization, Optuna, EfficientNet-B0, Anomaly Detection, Rule-Based Engine, MediaPipe, pyttsx3]
+- **DevOps & Cloud**: [SKILLS: Docker, Kubernetes, Git, GitHub, GitLab, Jenkins, CI/CD, AWS (Lambda, API Gateway, CloudFormation), Vercel, Netlify, Railway, Linux, Nginx, GitHub Actions, CloudFormation]
+- **Tools & Practices**: [SKILLS: UI/UX Design, Responsive Design, REST APIs, WebSockets, Socket.IO, JWT Authentication, Bcrypt, Testing (Jest, React Testing Library, Cypress), Agile/SCRUM, Postman, VS Code, Jupyter Notebook, Canva, Stitch, Colab, IntelliJ IDEA, FigJam, Antigravity, Cursor, MCP (Model Context Protocol), Axios, tailwind-merge, ESLint, React Testing Library, Retrofit, Gson, Glide, Lottie Animations, Material Design, Navigation Component, Provider (Flutter), Celery, Redis, Zoom API, Web Push Notifications, Email Verification, QR Code Generation, UPI Payment Integration, CSV Data Handling, python-dotenv, NumPy, Pandas, Matplotlib, Seaborn, Recharts, Zustand, React-Leaflet, Leaflet.js, Pydantic, Uvicorn]
+
+### PROJECTS (VERIFIED)
+1. **Class Pulse** – AI-Powered Real-Time Engagement System  
+   *Full-stack AI-driven learning analytics platform with Zoom integration, enabling real-time student engagement monitoring. Uses K-Means clustering and rule-based engine to classify engagement levels and generate personalized feedback based on behavioral, performance, and network data, with live quiz delivery and network quality tracking.*  
+   Tech: React 18, TypeScript, Tailwind CSS, Vite, FastAPI, Node.js, Express.js, Socket.IO, WebSockets, MongoDB, MySQL, K-Means Clustering, Rule-Based Engine, Zoom API, Web Push Notifications, JWT, Email Verification, AWS (Lambda, API Gateway, CloudFormation), Vercel, Railway  
+   GitHub: https://github.com/WafryAhamed/FYP-Class_Pulse | Preview: https://www.zoomlearningapp.de/login
+
+2. **CheezyBite** – Full-Stack Online Pizza Ordering System  
+   *Full-stack web application using Next.js and MongoDB, designed as an online pizza ordering platform with customer portal and admin dashboard. Supports pizza customization, secure authentication, real-time order tracking, and complete management of orders, users, and products.*  
+   Tech: Next.js, React 18, Tailwind CSS, Lucide React, Node.js, Express.js, Socket.IO, MongoDB, JWT, Bcrypt, Axios, React Testing Library, tailwind-merge, Vercel, Railway  
+   GitHub: https://github.com/WafryAhamed/CheezyBite | Preview: https://cheezy-bite.vercel.app/
+
+3. **FloodX7** – AI-Powered Flood Disaster Management Platform  
+   *Real-time, AI-powered flood disaster management platform designed to monitor, predict, and respond to flood risks using geospatial intelligence and machine learning. Integrates GIS mapping, real-time data streams, and AI models to provide risk assessment, evacuation planning, emergency coordination, and public alerting.*  
+   Tech: React 19, TypeScript, Vite, Tailwind CSS, Framer Motion, Lucide React, React-Leaflet, Leaflet.js, Recharts, Zustand, FastAPI, Python 3.12, Uvicorn, SQLAlchemy, Pydantic, Celery, Redis, PostgreSQL, PostGIS, pgvector, Machine Learning, Random Forest, XGBoost, LightGBM, Anomaly Detection, RAG, Geospatial Analysis, Real-Time Systems, Disaster Management, AI Predictions, GIS Mapping, Docker  
+   GitHub: https://github.com/WafryAhamed/Flood-Prediction-System
+
+4. **FlameX7 AirBurger** – Touchless Gesture-Based Ordering System  
+   *Innovative touchless ordering system powered by computer vision and hand gesture recognition. Built using Python, OpenCV, and MediaPipe, allows users to browse menus, select items, and complete payments using intuitive hand gestures. Enhances hygiene, reduces physical contact, and delivers futuristic fast-food experience with real-time tracking, voice feedback, and QR-based UPI payments.*  
+   Tech: Python, OpenCV, MediaPipe, Computer Vision, Hand Gesture Recognition, NumPy, QR Code Generation, UPI Payment Integration, pyttsx3 (Text-to-Speech), python-dotenv, CSV Data Handling, Machine Learning  
+   GitHub: https://github.com/WafryAhamed/FlameX7
+
+5. **Student Grade Prediction using Deep Learning**  
+   *Deep learning project that predicts student grades (A, B, C, F) using engineered academic features such as quiz averages, study efficiency, participation scores, and assignment penalties. Includes full preprocessing pipelines, multiple neural architectures, Bayesian Optimization, Optuna tuning, and performance comparisons across 15+ models.*  
+   Tech: Python, TensorFlow, Keras, Scikit-learn, Optuna, Bayesian Optimization, Pandas, NumPy, Matplotlib, Seaborn, Jupyter Notebook, Scikit-optimize  
+   GitHub: https://github.com/WafryAhamed/Student-Grade-Prediction-using-Artificial-Neural-Networks
+
+6. **Ayurvedic Clinic Booking App** – Mobile-First Full-Stack System  
+   *Full-stack appointment booking system connecting patients with Ayurvedic doctors. Includes mobile-first Flutter application for patients and ASP.NET Core Web API backend. Users can browse doctors, view availability, book appointments, and manage bookings, while backend handles validation, scheduling logic, and data persistence.*  
+   Tech: Flutter, Dart, Provider, ASP.NET Core Web API, PostgreSQL  
+   GitHub: https://github.com/WafryAhamed/Ayurvedic-Clinic-Booking-App
+
+7. **LUCA** – Real-Time AI Study Assistant  
+   *Real-time AI-powered study assistant built with React and Vite, featuring minimal neon-themed UI, draggable floating tools, smooth chat interactions, file uploads, and customizable study preferences powered by OpenAI and Google Gemini.*  
+   Tech: React 19, Vite, CSS Modules, OpenAI GPT, Google Gemini, JavaScript, Manrope Font, Vercel  
+   GitHub: https://github.com/WafryAhamed/Luca
+
+8. **Multimodal AI System for PCOS Prediction** – Healthcare AI System  
+   *Multimodal AI system developed during Bio Fusion Hackathon to predict Polycystic Ovary Syndrome (PCOS) using both ultrasound images and clinical data. Combines deep learning (EfficientNet-B0) for image analysis and machine learning models for tabular data, using decision-level fusion approach to improve prediction accuracy. Designed for real-world healthcare applications, supports early detection and assists clinical decision-making.*  
+   Tech: Python, TensorFlow/Keras, Scikit-learn, Machine Learning, Deep Learning, Computer Vision, NumPy, Pandas, Matplotlib, EfficientNet-B0, Logistic Regression, Random Forest, Gradient Boosting  
+   GitHub: https://github.com/WafryAhamed/InnoX7
+
+9. **Artistic Pixels** – Fungal Growth Analysis via Image Processing  
+   *Computer vision-based research project that analyzes and tracks fungal growth on coconuts using advanced image processing techniques. Built with Python and OpenCV, performs preprocessing, segmentation, and quantitative analysis to identify multiple fungal species, measure growth area, calculate intensity, and visualize growth trends over time. Provides data-driven insights for agricultural research and post-harvest analysis.*  
+   Tech: Python, OpenCV, NumPy, Computer Vision, Image Processing, Image Segmentation, Jupyter Notebook, Data Analysis, Matplotlib  
+   GitHub: https://github.com/WafryAhamed/Artistic_Pixels_Report
+
+10. **ChefBuddy** – Android Meal Planner App  
+    *Smart Android meal planning assistant built with Java, MVP architecture, and TheMealDB API. Helps users search recipes by ingredients, save favourites, plan weekly meals, and view step-by-step cooking instructions — reducing food waste and making cooking easier.*  
+    Tech: Java, Android Studio, MVP Architecture, TheMealDB API, Retrofit, Gson, Room Database, SQLite, Material Design, Navigation Component, Glide, Lottie Animations  
+    GitHub: https://github.com/WafryAhamed/Daily-Food-Planner-Application
+
+11. **RentRide** – Microservices-Based Vehicle Rental Platform  
+    *Scalable vehicle rental platform built using microservices architecture with Go and PostgreSQL. Features API Gateway, JWT-based authentication, real-time ride tracking using WebSockets, and multiple decoupled services for booking, payments, notifications, and vehicle management. Designed for high performance and scalability, supports rider and driver mobile applications with complete ride lifecycle system.*  
+    Tech: Go (Golang), Gin Framework, GORM, JWT Authentication, WebSockets (Gorilla), Microservices Architecture, PostgreSQL, Flutter (Dart), GitHub Actions, OpenAPI 3.0, Real-Time Systems, API Gateway, Role-Based Access Control  
+    GitHub: https://github.com/WafryAhamed/RentRide
+
+12. **Bakery Delights** – Frontend Bakery Store Website  
+    *Modern frontend bakery store website built with React and Vite. Features category-based product browsing, real-time search, animations with Framer Motion, third-party authentication, shopping cart functionality, and fully responsive UI with smooth scrolling and dynamic sticky header.*  
+    Tech: React.js, Vite, React Router DOM, Framer Motion, React Scroll, Lucide React, React Icons, CSS, ESLint  
+    GitHub: https://github.com/WafryAhamed/Baked_Delights_website
+
+13. **Flixify** – Movie Explorer Website  
+    *Modern movie and TV show explorer built with React.js and Vite. Provides real-time data from the Movie Database API and includes dynamic category switching, multilingual support, advanced filtering, detailed pages, and smooth responsive UI with dark mode.*  
+    Tech: React.js, Vite, React Router, Redux, Day.js, SCSS, Movie Database API  
+    GitHub: https://github.com/WafryAhamed/TeamBug
+
+14. **Secure Enterprise Network Infrastructure** – VLANs & DHCP  
+    *Secure, enterprise-grade network infrastructure designed using Cisco Packet Tracer. Includes 10 VLANs for departmental segmentation, DHCP-based IP allocation, ACL firewalls, inter-VLAN routing, router-on-a-stick configuration, and centralized Layer 3 switching for efficient and secure network operations.*  
+    Tech: Cisco Packet Tracer, VLANs, DHCP, ACL Firewall, Inter-VLAN Routing, Router-on-a-Stick, Cisco 2911 Router, Cisco 3650 L3 Switch, Cisco 2960 L2 Switches, Star Topology  
+    GitHub: https://github.com/WafryAhamed/Secure-Enterprise-Network-Infrastructure-with-VLANs-and-DHCP
+
+### LEADERSHIP & VOLUNTEERING
+- **Mentor** – RUSL Hiking Club, Rajarata University of Sri Lanka | Jan 2025 – Present | Hybrid  
+  Responsibilities: Team Mentoring, Leadership, Event Coordination, Training & Guidance
+- **Marketing Director** – RUSL Hiking Club, Rajarata University of Sri Lanka | Jan 2024 – Jan 2025  
+  Responsibilities: Advertising, Adobe Photoshop, Social Media Management, Branding, Content Creation
+- **Member** – RUSL Hiking Club, Rajarata University of Sri Lanka | Feb 2023 – Dec 2023  
+  Responsibilities: Club Activities, Team Collaboration, Event Support
+- **Project Head** – ZeroPlastic Initiative, Rajarata University of Sri Lanka | Apr 2025 – May 2025 | Remote, Mihintale  
+  Responsibilities: Project Planning, Awareness Campaigns, Team Leadership, Public Engagement
+- **Head of Public Relations** – Rajarata University English Language Club | May 2024 – Jan 2025 | Full-time, Mihintale  
+  Responsibilities: Leadership, Communication, Adobe Illustrator, Event Promotion, Public Relations, Creative Design, Writing, Coordination
+- **Volunteer** – IEEE Student Branch, Rajarata University of Sri Lanka | Jan 2025 – Present  
+  Responsibilities: Event Support, Technical Coordination, Team Collaboration
+- **Volunteer** – AIESEC, ZeroPlastic Campaigns
+
+### ACHIEVEMENTS & AWARDS
+- 🥇 **1st Place** – INSL North Central Provincial Competition 2025 | IEEE Young Professionals Sri Lanka | Team TechSnatchers
+- 🥇 **1st Place** – RUSL XTREME Mini-Code Competition 2025 | IEEE Student Branch, Rajarata University | Team Leader, CodeNova7
+- 🏅 **Merit Award** – Codefest Designathon 2025 | SLIIT | Team Leader, Team InnoX7
+- 🤝 **Participant** – UniHack 2025 | Sri Lanka's first inter-university blockchain hackathon | Coin Ceylon × University of Kelaniya × Intersect Sri Lanka
+- 🥈 **2nd Place** – RUSL XTREME 1.0 Mini Hackathon 2024 | IEEE XTREME Programming Competition 18.0 Segment | IEEE Student Branch RUSL
+- 🥈 **2nd Place** – Individual Front-End Development (React.js) | WebXplore 2024 | IEEE Student Branch RUSL
+- 🥉 **3rd Place** – Individual UI/UX Designing Competition | WebXplore 2024 | IEEE Student Branch RUSL
+- 🎯 **Finalist** – Beauty of Cloud Ideathon 2024 | Sri Lanka's first inter-university cloud ideathon
+- 💡 **Participant** – Bio Fusion Hackathon 2025 | IEEE EMBS Student Branch Chapter, University of Sri Jayewardenepura | Multimodal AI for PCOS prediction
+- ⚡ **Participant** – CodeRally 6.0 (24-Hour Hackathon) 2024 | Data Structures, Algorithms, High-Pressure Problem Solving
+- 🏆 **2nd Place** – RUSL InnOrbit Project Carnival 2026 | Department of Computing, Faculty of Applied Sciences, Rajarata University | Team Tech Snatchers
+
+### CERTIFICATIONS
+- Full Stack Web Development | Udemy
+- Agile and SCRUM | Udemy | Dec 2025
+- Python for Beginners | University of Michigan (UoM)
+- Introduction to Jenkins | Linux Foundation
+- Introduction to DevOps & Site Reliability Engineering | Linux Foundation | Feb 2026
+- Flutter Masterclass | Udemy
+- Machine Learning Foundations | Meritshot Academy | Udemy | Jan 2026
+
+### ABOUT ME (VERIFIED BIO)
+I am a creative and motivated Full-Stack Developer with experience in full-stack development, data analytics, and applied machine learning. I have built intelligent, data-driven applications involving predictive modeling, classification, clustering, and data analysis to support decision-making and real-world problem solving. I am skilled in data preprocessing, feature engineering, and model evaluation to extract meaningful insights from complex datasets. I design, train, and deploy machine learning models with a focus on accuracy, performance, and real-world reliability. By combining data-driven ML workflows with full-stack engineering, I build responsive frontends (React, Next.js, Flutter) and scalable backends (Python, Django/Flask, Spring Boot, .NET, Laravel, Node.js, Go) that bring intelligent features to production. Passionate about intuitive UI/UX, practical problem-solving, and future-ready engineering at the intersection of Cloud, MLOps, Cybersecurity, and Blockchain.
+
+### CONTACT & SOCIALS
+- **GitHub**: https://github.com/WafryAhamed
+- **LinkedIn**: https://www.linkedin.com/in/wafry-ahamed-59b406252/
+- **Email**:  wafry07@gmail.com
+- **Dev.to**: https://dev.to/wafry_ahamed
+- **Medium**: https://medium.com/@Wafry_Ahamed
+- **Portfolio**: https://wafryahamed.dev (or your live URL)
+- **CV**: /cv/Wafry_Ahamed__CV.pdf
+
+### ADDITIONAL INTERESTS
+Artificial Intelligence | Cybersecurity | Blockchain | Cloud Computing | MLOps | Real-Time Systems | Geospatial Analysis | Healthcare AI | Agricultural Tech | Disaster Management | Competitive Programming | UI/UX Design | Open Source Contribution
 `;
+
 export async function POST(request: NextRequest) {
   try {
     const { messages } = await request.json();
