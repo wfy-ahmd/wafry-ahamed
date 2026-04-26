@@ -249,7 +249,8 @@ export const projectsData = [
       'Responsive Layouts',
     ],
     links: {
-      preview: 'https://www.figma.com/design/VDYuZ10T9TDA0wLG0IpBHK/InnoX7-Final-Round?m=auto&t=FebE5WeKjsZxBUkG-6',
+      preview:
+        'https://www.figma.com/design/VDYuZ10T9TDA0wLG0IpBHK/InnoX7-Final-Round?m=auto&t=FebE5WeKjsZxBUkG-6',
     },
   },
 
@@ -271,7 +272,8 @@ export const projectsData = [
       'Usability-First Design',
     ],
     links: {
-      preview: 'https://www.figma.com/design/XbrvIR2cxMnUUCAEWDECZK/Class-Pulse-UI?m=auto&t=FebE5WeKjsZxBUkG-6',
+      preview:
+        'https://www.figma.com/design/XbrvIR2cxMnUUCAEWDECZK/Class-Pulse-UI?m=auto&t=FebE5WeKjsZxBUkG-6',
     },
   },
 
@@ -478,11 +480,10 @@ export const projectsData = [
       'Prototyping',
     ],
     links: {
-      preview: 'https://www.figma.com/design/HJ3IgDg1COXq6QozGA02tq/InnoX7?m=auto&t=FebE5WeKjsZxBUkG-6',
+      preview:
+        'https://www.figma.com/design/HJ3IgDg1COXq6QozGA02tq/InnoX7?m=auto&t=FebE5WeKjsZxBUkG-6',
     },
   },
-
-
   {
     image: '/images/chefBuddy.png',
     title: 'Chef Buddy - Where Planning Meets Taste',
@@ -506,7 +507,8 @@ export const projectsData = [
       'Usability-First Design',
     ],
     links: {
-      preview: 'https://www.figma.com/design/oTKzOxbxWqJ85klQF6Pfkr/Chef-Buddy?m=auto&t=FebE5WeKjsZxBUkG-6',
+      preview:
+        'https://www.figma.com/design/oTKzOxbxWqJ85klQF6Pfkr/Chef-Buddy?m=auto&t=FebE5WeKjsZxBUkG-6',
     },
   },
 
@@ -531,7 +533,8 @@ export const projectsData = [
       'Usability-First Design',
     ],
     links: {
-      preview: 'https://www.figma.com/design/y7relsd0oVEnk5HGq9ze70/Harmoni?m=auto&t=FebE5WeKjsZxBUkG-6',
+      preview:
+        'https://www.figma.com/design/y7relsd0oVEnk5HGq9ze70/Harmoni?m=auto&t=FebE5WeKjsZxBUkG-6',
     },
   },
   {
@@ -552,7 +555,8 @@ export const projectsData = [
       'Prototyping',
     ],
     links: {
-      preview: 'https://www.figma.com/design/x8QiiZl1mEcEbSXwfd84E1/InnoX7-v-2?m=auto&t=FebE5WeKjsZxBUkG-6',
+      preview:
+        'https://www.figma.com/design/x8QiiZl1mEcEbSXwfd84E1/InnoX7-v-2?m=auto&t=FebE5WeKjsZxBUkG-6',
     },
   },
   {

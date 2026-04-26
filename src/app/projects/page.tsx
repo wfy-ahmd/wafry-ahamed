@@ -60,13 +60,14 @@ export default function ProjectsPage() {
         className="mb-12 text-center"
       >
         <h1 className="mb-4 text-4xl font-bold tracking-tight sm:text-5xl">
-          What I've Built
+          What I&apos;ve Built
         </h1>
         <p className="text-muted-foreground mx-auto max-w-4xl text-lg">
-          Discover the projects I’ve created, each highlighting my expertise in 
-          frontend and full-stack development, along with UI/UX design. 
-          My work focuses on modern frameworks, clean architecture, intuitive interfaces
-           and solving real-world problems through efficient, scalable user experiences.
+          Discover the projects I’ve created, each highlighting my expertise in
+          frontend and full-stack development, along with UI/UX design. My work
+          focuses on modern frameworks, clean architecture, intuitive interfaces
+          and solving real-world problems through efficient, scalable user
+          experiences.
         </p>
       </motion.div>
 
